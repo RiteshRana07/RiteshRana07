@@ -1,4 +1,4 @@
-# Hi, I'm Ritesh Rana 👋
+# Hi, I'm Ritesh 👋
 
 ## 🚀 Who Am I?
 I am a Frontend Developer and aspiring Data Analyst/Data Engineer passionate about building web applications, data-driven solutions, and AI-powered projects.
