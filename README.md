@@ -10,8 +10,7 @@ I am a Frontend Developer and aspiring Data Analyst/Data Engineer passionate abo
 - Improving problem-solving and SQL skills  
 
 ## 🛠️ Tools & Technologies I Use
-- Frontend: React.js, HTML, CSS, JavaScript  
-- Backend: Node.js  
+- Frontend: React.js, HTML, CSS, JavaScript
 - Database: MySQL  
 - Data Tools: PySpark, Kafka, Tableau, Pandas  
 - Programming: Python, SQL, C  
